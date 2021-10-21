@@ -246,7 +246,10 @@ align-items: center;
        display:none;
    }
 }
-
+.btinfo{
+    background-color: thistle;
+    border-radius: 12px;
+}
 
 /***************************************************CONTACTO************************************************************************/
 .form-register {
